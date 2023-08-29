@@ -1,6 +1,6 @@
 ## LAUNCHER ##
 
-Pour lancer le projet, il faut copier le dossier dans le localhost de votre serveur web (ex: WampServer) et lancer le fichier index.php
+Pour lancer le projet et local, il faut copier le dossier dans le localhost de votre serveur web (ex: WampServer) et lancer le fichier index.php
 Sur Windows/Mac: MAMP/WAMP <br>
 Sur Linux: apache2 dans le dossier ./var/www/html
 ### ACCES HTTP ###
