@@ -5,7 +5,7 @@ Sur Windows/Mac: MAMP/WAMP <br>
 Sur Linux: apache2 dans le dossier ./var/www/html
 ### ACCES HTTP ###
 Rendez-vous sur votre navigateur et tapez l'adresse suivante:
-```sports.maximeabade.fr```
+<a href="https://sports.maximeabade.fr">https://sports.maximeabade.fr</a>
 
 ## DESCRIPTION ##
 Ce site fait le recap de mes entraînements quotidiens en muscu, crossfit et boxe. Je comble d'autant plus avec le judo à raison de 2 fois par semaine les mardi et jeudi. 
