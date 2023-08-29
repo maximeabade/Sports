@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"",
+        "Details":"<h3><b>SÉANCE À FAIRE LES LUNDI, MERCREDI ET VENDREDI SOIR</b></h3>"
+    },
+    {
+        "Name": "Échauffement - 10/15 min",
+        "Details": "3 min de course sur place<br> 2 min de corde<br> 3 min de shadow boxing<br> 2 min de sac<br> 4*30 sec de step (mvts différents)<br> 2 min 10 pompes 20 fentes<br> 1 min gainage"
+    },
+    {
+        "Name": "Travail d'intensité - 10 min",
+        "Details": "<b>AU SAC:</b><br> 2 min rapide<br> 2 min power<br> 2 min focus esquive et contre<br> 2 min rapide + mvt<br> 2 min power + mvt.<br> 2 min de récup à la fin"
+    },
+    {
+        "Name": "Travail d'intensité - 15 min",
+        "Details": "<b>Circuit 45 sec par exo, 15 sec de récup entre chaque</b><br> Pompes <br> Chin Ups <br> Mountain Climbers <br> Burpees <br> Fentes lestées <br> Battle Rope <br> Chaise Romaine Leg Raises <br> Gobelet Squats<br> À faire 3 fois."
+    },
+    {
+        "Name": "Travail technique - 20 min",
+        "Details": "<b>1 min par exo, 30 sec de récup entre chaque</b><br>Jab <br> Crochet <br> Direct <br> Esquive <br> Blocage <br> Contre <br> FootWork<br> À faire 3 fois."
+    },
+    {
+        "Name": "Travail d'intensité - 10 min",
+        "Details": "<b>5 Rounds * 2 min, sans récup </b><br> <i>Round 1</i><br>RAPIDE + PRÉCISION<br><i>Round2</i><br>POWER + PRÉCISION<br><i>Round3</i><br>Esquive + MVT + PRÉCISION<br><i>Round4</i><br>BLOCAGE + CONTRE<br><i>Round5</i>TOUT À FOND<br>"
+    }
+]
